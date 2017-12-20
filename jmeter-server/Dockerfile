@@ -1,4 +1,4 @@
-# Use Ubuntu
+# Use vinsdocker base image
 FROM vinsdocker/jmbase
 MAINTAINER TestAutomationGuru
 
